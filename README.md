@@ -11,15 +11,14 @@ Java backend разработчик
 <p align='center'>
    <a href="https://www.linkedin.com/in/дмитрий-золотых-711a66209">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-      <a href="@zolotyh_dmitry">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
 <p align='center'>
-   📫<a href='mailto:zolotyh.dk@gmail.com'>zolotyh.dk@gmail.com</a>
+   <a href='mailto:zolotyh.dk@gmail.com'>zolotyh.dk@gmail.com</a>
 </p>
 <p align='center'>
-   📫<a href='https://javarush.com/users/2778553'>Я на JavaRush</a>
+   <a href='https://javarush.com/users/2778553'>Я на JavaRush</a>
+</p>
+<p align='center'>
+   Telegram: @zolotyh_dmitry
 </p>
 
 ## 🛠 Стек технологий
