@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Привет! Я Дмитрий Золотых, Java-разработчик
 
-<!--
-**zolotyh-dk/zolotyh-dk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Технологии и инструменты
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=intellij-idea)
 
-Here are some ideas to get you started:
+## 📫 Контакты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: zolotyh.dk@gmail.com
+- Telegram: [@zolotyh_dmitry](https://t.me/zolotyh_dmitry)
+- LinkedIn: [Дмитрий Золотых](www.linkedin.com/in/дмитрий-золотых-711a66209)
+
