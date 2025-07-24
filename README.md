@@ -7,6 +7,9 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-000?&logo=intellij-idea)
 
+## 🛠️ Сейчас работаю над проектами
+- [File Nest](https://github.com/zolotyh-dk/file-nest) — телеграм-бот для обмена файлами c асинхронной обработкой сообщений (Java, Spring Boot, RabbitMQ)
+
 ## 📫 Контакты
 
 - Email: zolotyh.dk@gmail.com
